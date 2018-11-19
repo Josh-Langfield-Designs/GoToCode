@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /aside/
+Disallow: /cgi-bin/
+Disallow: /E2
+Disallow: /HDWForm2Mail/
+Disallow: /HDWFormCaptcha/
+Disallow: /includes/
+Disallow: /pdfs/
+Disallow: /blank
+Disallow: /error
+Disallow: /Contact-Us-Thank-You.php
+Disallow: /Estate-Planning-Consult-Thank-You.php
+Disallow: /Estate-Planning-workshops-Registration-Thank-You.php
+Disallow: /fs-
